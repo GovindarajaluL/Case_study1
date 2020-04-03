@@ -9,8 +9,7 @@ Case Study 1 Walmart Sales Forecasting
 in different regions .
 
 	2.1) Stores csv File: This File containe the information about the store ,indicating the type and size of the store.
-	2.2) Train csv File: This file has the historical train data, which covers from 2010-02-05 to  
-2012-11-01 within the file the given fields are 
+	2.2) Train csv File: This file has the historical train data, which covers from 2010-02-05 to  2012-11-01 within the file the given fields are 
     • Store     	 - The number of the store
     • Dept      	 - The department number 
     • Date      	 -  The week
